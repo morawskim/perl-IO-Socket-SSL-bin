@@ -1,0 +1,22 @@
+=head2 Sat Dec 30 12:32:11 2017: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/marcin/.local/analyze-ssl/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.052>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
